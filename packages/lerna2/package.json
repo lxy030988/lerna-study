@@ -1,6 +1,6 @@
 {
   "name": "lerna2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "lixiangyu <654762937@qq.com>",
   "homepage": "",
@@ -23,8 +23,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lerna2/cli": "^0.0.2",
-    "@lerna2/create": "^0.0.2",
-    "@lerna2/init": "^0.0.2"
+    "@lerna2/cli": "^0.0.3",
+    "@lerna2/create": "^0.0.3",
+    "@lerna2/init": "^0.0.3"
   }
 }
