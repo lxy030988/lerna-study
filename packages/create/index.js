@@ -18,7 +18,7 @@ class CreateCommand {
     //init-package-json可以弹出选项让我们填写package.json信息
     //pify 可以把一个回调方式改为promise方式
     await initPackageJson(this.targetDir, '')
-    console.log('新包成功')
+    console.log('新包成功2')
   }
 }
 
