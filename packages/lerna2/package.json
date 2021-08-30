@@ -1,0 +1,30 @@
+{
+  "name": "lerna2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "lixiangyu <654762937@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "bin": {
+    "lerna2": "cli.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://licalhost:4873"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@lerna2/cli": "^0.0.0",
+    "@lerna2/create": "^0.0.0",
+    "@lerna2/init": "^0.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "list": ["lerna2", "@lerna2/cli", "@lerna2/init", "@lerna2/create"],
+  "secret": "e1b92d2321859371206a157aab85b27f9e961b1168b695ba18a1a3b2856ea4bb"
+}
