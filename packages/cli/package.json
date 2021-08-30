@@ -13,7 +13,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://licalhost:4873"
+    "registry": "http://localhost:4873/"
   },
   "scripts": {
     "test": "jest"
